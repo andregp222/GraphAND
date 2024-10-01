@@ -1,6 +1,6 @@
 [build-system]
 requires = ["pygame"]
-build-backend = "pygame.build"
+build-backend = ""
 [project]
 name = "GraphAND_ANDREGP222"
 version = "0.0.1"
