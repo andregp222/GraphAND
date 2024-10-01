@@ -1,5 +1,5 @@
 [build-system]
-requires = ["pygame", "hatchling"]
+requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
 name = "GraphAND_ANDREGP222"
@@ -7,7 +7,7 @@ version = "0.0.1"
 authors = [
   { name="André Glycerio", email="aglycerio@gmail.com" },
 ]
-description = "akes graphs(kinda Janky)"
+description = "makes graphs(kinda Janky)"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
